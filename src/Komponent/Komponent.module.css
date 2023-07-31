@@ -1,0 +1,7 @@
+.container{
+    display: flex;
+    justify-content: center; 
+    background-color: lawngreen;
+    font-size: 18px;
+  color: blue;
+}
